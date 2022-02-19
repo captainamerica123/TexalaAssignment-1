@@ -7,13 +7,15 @@ import org.junit.jupiter.api.Test;
 class Junit {
 
 	@Test
-	void testReadHTML() {
-		fail("Not yet implemented");
+	void testReadHTML() 
+	{
+		
 	}
 
 	@Test
-	void testWriteHTMLToFile() {
-		fail("Not yet implemented");
+	void testWriteHTMLToFile() 
+	{
+		
 	}
 
 }
